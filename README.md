@@ -1,4 +1,4 @@
-# Ilan Matific Technical Tasl
+# Ilan Matific Technical Task
 ## Overview
 1. To start with This project consists of a bootstrap script that does the following,
 
