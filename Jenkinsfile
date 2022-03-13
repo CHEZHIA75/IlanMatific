@@ -1,6 +1,6 @@
 node{
 
-  git branch: "master", url: "https://github.com/CHEZHIA75/matific_Ilan" 
+  git branch: "master", url: "https://github.com/CHEZHIA75/IlanMatific" 
 
   stage ('Build the Docker image') {
     sh "echo building the image..."
